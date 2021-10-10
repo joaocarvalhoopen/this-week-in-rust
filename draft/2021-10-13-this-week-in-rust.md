@@ -23,6 +23,7 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 ### Newsletters
 
 ### Observations/Thoughts
+* [How to learn modern Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 
 ### Rust Walkthroughs
 
